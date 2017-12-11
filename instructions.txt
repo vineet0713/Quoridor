@@ -1,0 +1,5 @@
+Quoridor is played on a game board of 81 square spaces (9x9). The objective is to be the first player to move their pawn to any space on the opposite side of the gameboard.
+
+On a turn, a player may either move their pawn (up, down, left, right), or place a wall. Walls block the path of all pawns. Once placed, walls cannot be moved or removed.
+
+Walls can be placed directly adjacent to two spaces. However, a wall may not be placed to cut off the only remaining path of a pawn and completely encapsulate it.
